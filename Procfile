@@ -1,0 +1,1 @@
+web : gununicorn hackerx.wsgi --log-file -
